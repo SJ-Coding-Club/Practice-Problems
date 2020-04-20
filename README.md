@@ -2,30 +2,43 @@
 Welcome! This repository will allow you to practice and improve your coding skills.
 
 ### Getting Started
-1) Create a [Github](https://github.com/) Account if you don't already have one.
+1) Create a [Github](https://github.com/) Account if you don't already have one and log in.
 2) Fork this repository. If you don't know how to do this: scroll to the top of this page, click 'Fork'
 3) Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Make sure you choose the right version for your OS.
 4) Open up a command terminal. On Windows: Windows Key + R, type in 'cmd', hit enter.
-5) *If you don't want to store this file in your default user file, navigate through your file system using the 'cd' command. [Here](https://youtu.be/BfXh11ryBJg) is a guide on doing this.
-6) Type 'git clone https://github.com/YOURGITHUBUSERNAME/Practice-Problems.git' in the terminal. Make sure to insert your GitHub username.
+5) If you don't want to store this repository in your default user file, navigate through your file system using the 'cd' command until you find the folder where you want to put this. [Here](https://youtu.be/BfXh11ryBJg) is a guide on doing this.
+6) Type 'git clone https://github.com/SJ-Coding-Club/Practice-Problems.git' in the terminal. 
 
-Now you can make local changes to these files and begin solving the practice problems.
+Now you have cloned this repository to your system. You can now make local changes to these files and begin solving the practice problems.
+
+As you learn to code, go through each problem set and see if you can figure out the solutions. Some of the problems can seem tricky for beginners, so don't be afraid to look in the solutions repository on the SJ Coding Club GitHub page. Another useful resource to use as you learn is [Coding Bat](https://codingbat.com/java), which offers Java and Python practice problems with small tutorials and explanations.
 
 ### Java or Python for beginners?
 #### Python
 - Python is simpler and more beginner-friendly with a much easier learning curve.
 - Python syntax is very simple
-- Python is popular as a scripting language, but is also used in larger apps. It's very good for data analysis and machine learning.
-- Python is very easy to read. It is almost like pseudocode. This helps beginners learn early programming concepts 
+- Python is popular as a scripting language, but is also widely used in larger apps. It's very good for data analysis, statistics, and machine learning.
+- Python is very easy to read and write. It is almost like [pseudocode](https://www.unf.edu/~broggio/cop2221/2221pseu.htm). This helps beginners learn early programming concepts with ease.
 
 #### Java
 - Java is a little bit more complicated and has a bit more of a learning curve
-- Java syntax is slightly more complicated 
-- Java can be used to develop Android apps, web applications, and common desktop programs
+- Java syntax is slightly more complex
+- Java can be used to develop Android apps, web applications, common desktop programs, and more
 - I have found that Java makes more advanced topics like Object-Oriented Programming and Data Structures easier to understand. 
 
 If you don't know what you want to accomplish, I would recommend learning Python because of the convenience and readability it offers beginners.
 
 [Installing Python](https://realpython.com/installing-python/)
 
-[Installing Java](https://youtu.be/GdOGMwjZ5vE)
+[Installing Java](https://youtu.be/70dN5jqumAs)
+
+### Free Python Courses
+All of these courses are completely free. You only have to pay if you want a certificate. There is no obligation to complete anything and you can work at your own pace.
+- [University of Michigan: Python for Everybody](https://www.coursera.org/learn/python)
+- [Rice University: Intro to Programming](https://www.coursera.org/specializations/computer-fundamentals)
+- [MIT: Intro to CS with Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+
+### Free Java Courses
+- [Java for Beginners](https://www.udemy.com/course/java-tutorial/)
+- [Duke University: Java Fundamentals](https://www.coursera.org/specializations/java-programming)
+
