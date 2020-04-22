@@ -46,6 +46,6 @@ You can begin here once you feel ready to solve a few problems.
 5) Open up a command terminal. On Windows: Windows Key + R, type in 'cmd', hit enter.
 6) If you don't want to store this repository in your default user file, navigate through your file system using the 'cd' command until you find the folder where you want to put this. [Here](https://youtu.be/BfXh11ryBJg) is a guide on doing this.
 7) Type 'git clone https://github.com/YOURUSERNAME/Practice-Problems.git' in the terminal. Be sure to insert your username instead. Now you have cloned this repository to your system. You can now make local changes to these files and begin solving the practice problems.
-8) As you make progress, feel free to push the problems you have solved in your local repository to the one you cloned on your GitHub page. If you don't feel comfortable with git at all, it's totally fine. 
+8) As you make progress, feel free to push the problems you have solved in your local repository to the one you forked on your GitHub page. If you don't feel comfortable with git at all, it's totally fine. 
 
 As you learn to code, go through each problem set and see if you can figure out the solutions. Some of the problems can seem tricky for beginners, so don't be afraid to look in the solutions repository on the SJ Coding Club GitHub page. Another useful resource to use as you learn is [Coding Bat](https://codingbat.com/java), which offers Java and Python practice problems with small tutorials and explanations.
